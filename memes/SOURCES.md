@@ -6,8 +6,8 @@ Style gate: only clean blue DeepSeek whale girl / 蓝色大肥鱼, cute Q-versio
 
 | file | source | author | note |
 | --- | --- | --- | --- |
-| choutapm-deepseek-blue-whale-girl-1.jpg | https://x.com/Choutapm/status/2115782410227073462 | @Choutapm | 蓝色大肥鱼 folklore (panel 1) |
-| choutapm-deepseek-blue-whale-girl-2.jpg | https://x.com/Choutapm/status/2115782410227073462 | @Choutapm | 蓝色大肥鱼 folklore (panel 2) |
+| ../ip-reference/choutapm-deepseek-blue-whale-girl-1.jpg | https://x.com/Choutapm/status/2115782410227073462 | @Choutapm | 蓝色大肥鱼 folklore (panel 1) |
+| ../ip-reference/choutapm-deepseek-blue-whale-girl-2.jpg | https://x.com/Choutapm/status/2115782410227073462 | @Choutapm | 蓝色大肥鱼 folklore (panel 2) |
 
 ## CDN meme pack (梗鲸 / aigengtu)
 
