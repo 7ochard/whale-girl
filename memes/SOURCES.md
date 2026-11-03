@@ -4,6 +4,8 @@ Style gate: only clean blue DeepSeek whale girl / 蓝色大肥鱼, cute Q-versio
 
 ## Style reference
 
+> Moved 2026-11-03: official choutapm panels live in `ip-reference/` (not under `memes/`).
+
 | file | source | author | note |
 | --- | --- | --- | --- |
 | ../ip-reference/choutapm-deepseek-blue-whale-girl-1.jpg | https://x.com/Choutapm/status/2115782410227073462 | @Choutapm | 蓝色大肥鱼 folklore (panel 1) |
