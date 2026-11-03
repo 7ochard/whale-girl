@@ -40,6 +40,10 @@ Pack: [the-beating-light-of-the-nail/deepseek-chan-meme-pack](https://github.com
 | aigengtu-cdn-072.webp | https://img.aigengtu.com/meme/072.webp | https://aigengtu.com/meme/072 | 吃白饭用户 |
 | aigengtu-cdn-075.webp | https://img.aigengtu.com/meme/075.webp | https://aigengtu.com/meme/075 | 原来是劣等模型 |
 | aigengtu-cdn-078.webp | https://img.aigengtu.com/meme/078.webp | https://aigengtu.com/meme/078 | 我去吃饭啦测完叫我 |
+| aigengtu-cdn-020.webp | https://img.aigengtu.com/meme/020.webp | https://aigengtu.com/meme/020 | 鲸震恩来了 propaganda parody |
+| aigengtu-cdn-090.webp | https://img.aigengtu.com/meme/090.webp | https://aigengtu.com/meme/090 | 便宜嫌菜涨价舍不得 |
+| aigengtu-cdn-092.webp | https://img.aigengtu.com/meme/092.webp | https://aigengtu.com/meme/092 | 鲸元卷 banknote |
+| aigengtu-cdn-115.webp | https://img.aigengtu.com/meme/115.webp | https://aigengtu.com/meme/115 | 死掉了 sticker |
 | aigengtu-cdn-022.webp | https://img.aigengtu.com/meme/022.webp | https://aigengtu.com/meme/022 | CDN pack fill |
 | aigengtu-cdn-040.webp | https://img.aigengtu.com/meme/040.webp | https://aigengtu.com/meme/040 | CDN pack fill |
 | aigengtu-cdn-044.webp | https://img.aigengtu.com/meme/044.webp | https://aigengtu.com/meme/044 | CDN pack fill |
@@ -165,3 +169,4 @@ Repo: [YunYueSama/codex-deepseek-pet](https://github.com/YunYueSama/codex-deepse
 | `yunyuesama-character-standard.png` | https://github.com/YunYueSama/codex-deepseek-pet/blob/main/design/character-standard.png | appearance standard |
 - CDN `005` stock/crypto crash; `015` ≈ treap-03 dup; `018` white-hair promo non-blue; `054` multi-IP collage; `060` non-Q scene; `065` black orca sheet; `080` unrelated man
 - Treap `06`/`17`/`18` upskirt/NSFW angle; `09`/`12`/`19` screenshot or sexual-slang heavy; `16` non-Q / off ears
+- CDN `082` photo; `086` sexual slang; `088` logo; `095` portrait; `098`/`112`/`125` multi-IP / fetishy; `100` gigachad; `102` NSFW chat screenshot; `105`/`118` dupes; `108`/`110` non-Q; `120`≈060 scene; `128` BDSM harness
