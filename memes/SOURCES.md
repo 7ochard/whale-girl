@@ -24,6 +24,17 @@ Pack: [the-beating-light-of-the-nail/deepseek-chan-meme-pack](https://github.com
 | aigengtu-cdn-050.webp | https://img.aigengtu.com/meme/050.webp | https://aigengtu.com/meme/050 | V4.1还早啊 |
 | aigengtu-cdn-081.webp | https://img.aigengtu.com/meme/081.webp | https://aigengtu.com/meme/081 | token太多用不完啦 |
 | aigengtu-cdn-123.webp | https://img.aigengtu.com/meme/123.webp | https://aigengtu.com/meme/123 | 我能去你家吃饭吗，就一碗 |
+| aigengtu-cdn-022.webp | https://img.aigengtu.com/meme/022.webp | https://aigengtu.com/meme/022 | CDN pack fill |
+| aigengtu-cdn-040.webp | https://img.aigengtu.com/meme/040.webp | https://aigengtu.com/meme/040 | CDN pack fill |
+| aigengtu-cdn-044.webp | https://img.aigengtu.com/meme/044.webp | https://aigengtu.com/meme/044 | CDN pack fill |
+| aigengtu-cdn-052.webp | https://img.aigengtu.com/meme/052.webp | https://aigengtu.com/meme/052 | CDN pack fill |
+| aigengtu-cdn-056.webp | https://img.aigengtu.com/meme/056.webp | https://aigengtu.com/meme/056 | CDN pack fill |
+| aigengtu-cdn-070.webp | https://img.aigengtu.com/meme/070.webp | https://aigengtu.com/meme/070 | CDN pack fill |
+| aigengtu-cdn-071.webp | https://img.aigengtu.com/meme/071.webp | https://aigengtu.com/meme/071 | CDN pack fill |
+| aigengtu-cdn-077.webp | https://img.aigengtu.com/meme/077.webp | https://aigengtu.com/meme/077 | CDN pack fill |
+| aigengtu-cdn-083.webp | https://img.aigengtu.com/meme/083.webp | https://aigengtu.com/meme/083 | CDN pack fill |
+| aigengtu-cdn-085.webp | https://img.aigengtu.com/meme/085.webp | https://aigengtu.com/meme/085 | CDN pack fill |
+| aigengtu-cdn-097.webp | https://img.aigengtu.com/meme/097.webp | https://aigengtu.com/meme/097 | CDN pack fill |
 
 ## DejavuMoe animated stickers
 
@@ -56,6 +67,10 @@ Repo: [TreapGoGo/deepseek-whale-girl](https://github.com/TreapGoGo/deepseek-whal
 | treapgogo-meme-01.webp | https://github.com/TreapGoGo/deepseek-whale-girl/blob/main/site/assets/gallery/meme-01.webp | DeepSeek完蛋了 |
 | treapgogo-meme-05.webp | https://github.com/TreapGoGo/deepseek-whale-girl/blob/main/site/assets/gallery/meme-05.webp | 用户彻底怒了 |
 | treapgogo-meme-10.webp | https://github.com/TreapGoGo/deepseek-whale-girl/blob/main/site/assets/gallery/meme-10.webp | 用户违反AI指令 |
+| treapgogo-meme-04.webp | https://github.com/TreapGoGo/deepseek-whale-girl/blob/main/site/assets/gallery/meme-04.webp | gallery sticker |
+| treapgogo-meme-08.webp | https://github.com/TreapGoGo/deepseek-whale-girl/blob/main/site/assets/gallery/meme-08.webp | gallery sticker |
+| treapgogo-meme-11.webp | https://github.com/TreapGoGo/deepseek-whale-girl/blob/main/site/assets/gallery/meme-11.webp | gallery sticker |
+| treapgogo-meme-15.webp | https://github.com/TreapGoGo/deepseek-whale-girl/blob/main/site/assets/gallery/meme-15.webp | gallery sticker |
 
 ## X candidates (kept)
 
@@ -68,6 +83,14 @@ Repo: [TreapGoGo/deepseek-whale-girl](https://github.com/TreapGoGo/deepseek-whal
 | l200892013-sticker-sheet-1.jpg | https://x.com/l200892013/status/2115813406339207297 | @l200892013 | 表情包第4弹 sticker sheet |
 | nftchen-http-status-sheet.jpg | https://x.com/NFT_Chen/status/2112100066081337450 | @NFT_Chen | HTTP status reaction sheet |
 | mylove2233-cute-crime.jpg | community X circulate (e.g. https://x.com/niulaibaola/status/2113185407370420707) | (unverified origin; filename retained) | 可爱罪 mugshot meme |
+| l200892013-winter-1.jpg | https://x.com/l200892013/status/2115813406339207297 | @l200892013 | 冬装 sticker panel |
+| l200892013-winter-2.jpg | https://x.com/l200892013/status/2115813406339207297 | @l200892013 | 冬装 sticker panel |
+| karyazg-1.jpg | https://x.com/karyazg/status/2116515135527498124 | @karyazg | 白米饭 comic panel |
+| karyazg-2.jpg | https://x.com/karyazg/status/2116515135527498124 | @karyazg | 白米饭 comic panel |
+| karyazg-3.jpg | https://x.com/karyazg/status/2116515135527498124 | @karyazg | 白米饭 comic panel |
+| youtiao99-envy.jpg | (X circulate; filename retained) | @youtiao99 lineage | 羡慕 envy sticker |
+| guochen622-qstand.jpg | https://x.com/guochen622/status/2116847225758273838 | @guochen622 | Q版站姿 apron whale |
+| jianweisignal-happy.jpg | https://x.com/JianWeiSignal/status/2116333084434108482 | @JianWeiSignal | Q版开心拳头 |
 
 ## Removed this pass (not meme set / not IP-clean)
 
@@ -75,3 +98,7 @@ Repo: [TreapGoGo/deepseek-whale-girl](https://github.com/TreapGoGo/deepseek-whal
 - `ae_arata-still.jpg` — 3D expression grid, not reaction meme
 - `maple_cq.jpg` — scene illustration, not meme
 - `choutapm-3.jpg` — multi-IP group collage, not single-IP meme
+- `jianweisignal-1` — UI/thinking screenshot, not sticker
+- `enorez2-contest` — Tieba poll mobile screenshot
+- aigengtu `058` — upskirt reject; `087` — 3D orca off-IP
+- treap `02` — duplicate of CDN 022
