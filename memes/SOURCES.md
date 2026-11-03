@@ -24,6 +24,22 @@ Pack: [the-beating-light-of-the-nail/deepseek-chan-meme-pack](https://github.com
 | aigengtu-cdn-050.webp | https://img.aigengtu.com/meme/050.webp | https://aigengtu.com/meme/050 | V4.1还早啊 |
 | aigengtu-cdn-081.webp | https://img.aigengtu.com/meme/081.webp | https://aigengtu.com/meme/081 | token太多用不完啦 |
 | aigengtu-cdn-123.webp | https://img.aigengtu.com/meme/123.webp | https://aigengtu.com/meme/123 | 我能去你家吃饭吗，就一碗 |
+| aigengtu-cdn-002.webp | https://img.aigengtu.com/meme/002.webp | https://aigengtu.com/meme/002 | 又错了再换方法 |
+| aigengtu-cdn-003.webp | https://img.aigengtu.com/meme/003.webp | https://aigengtu.com/meme/003 | 这用户发的啥啊 |
+| aigengtu-cdn-008.webp | https://img.aigengtu.com/meme/008.webp | https://aigengtu.com/meme/008 | 摸头 stubbypuff |
+| aigengtu-cdn-012.webp | https://img.aigengtu.com/meme/012.webp | https://aigengtu.com/meme/012 | GPT帮画 meta |
+| aigengtu-cdn-028.webp | https://img.aigengtu.com/meme/028.webp | https://aigengtu.com/meme/028 | 双休计划落空 comic |
+| aigengtu-cdn-030.webp | https://img.aigengtu.com/meme/030.webp | https://aigengtu.com/meme/030 | 偷吃token comic |
+| aigengtu-cdn-032.webp | https://img.aigengtu.com/meme/032.webp | https://aigengtu.com/meme/032 | 坠机涨价 meme |
+| aigengtu-cdn-038.webp | https://img.aigengtu.com/meme/038.webp | https://aigengtu.com/meme/038 | 好模型 |
+| aigengtu-cdn-042.webp | https://img.aigengtu.com/meme/042.webp | https://aigengtu.com/meme/042 | Flash vs Pro sisters |
+| aigengtu-cdn-045.webp | https://img.aigengtu.com/meme/045.webp | https://aigengtu.com/meme/045 | 揉脸 scold |
+| aigengtu-cdn-048.webp | https://img.aigengtu.com/meme/048.webp | https://aigengtu.com/meme/048 | 不要给我看这种东西 |
+| aigengtu-cdn-062.webp | https://img.aigengtu.com/meme/062.webp | https://aigengtu.com/meme/062 | 真坐得住啊你 |
+| aigengtu-cdn-068.webp | https://img.aigengtu.com/meme/068.webp | https://aigengtu.com/meme/068 | 就骚了怎么滴 |
+| aigengtu-cdn-072.webp | https://img.aigengtu.com/meme/072.webp | https://aigengtu.com/meme/072 | 吃白饭用户 |
+| aigengtu-cdn-075.webp | https://img.aigengtu.com/meme/075.webp | https://aigengtu.com/meme/075 | 原来是劣等模型 |
+| aigengtu-cdn-078.webp | https://img.aigengtu.com/meme/078.webp | https://aigengtu.com/meme/078 | 我去吃饭啦测完叫我 |
 | aigengtu-cdn-022.webp | https://img.aigengtu.com/meme/022.webp | https://aigengtu.com/meme/022 | CDN pack fill |
 | aigengtu-cdn-040.webp | https://img.aigengtu.com/meme/040.webp | https://aigengtu.com/meme/040 | CDN pack fill |
 | aigengtu-cdn-044.webp | https://img.aigengtu.com/meme/044.webp | https://aigengtu.com/meme/044 | CDN pack fill |
@@ -67,6 +83,11 @@ Repo: [TreapGoGo/deepseek-whale-girl](https://github.com/TreapGoGo/deepseek-whal
 | treapgogo-meme-01.webp | https://github.com/TreapGoGo/deepseek-whale-girl/blob/main/site/assets/gallery/meme-01.webp | DeepSeek完蛋了 |
 | treapgogo-meme-05.webp | https://github.com/TreapGoGo/deepseek-whale-girl/blob/main/site/assets/gallery/meme-05.webp | 用户彻底怒了 |
 | treapgogo-meme-10.webp | https://github.com/TreapGoGo/deepseek-whale-girl/blob/main/site/assets/gallery/meme-10.webp | 用户违反AI指令 |
+| treapgogo-meme-03.webp | https://github.com/TreapGoGo/deepseek-whale-girl/blob/main/site/assets/gallery/meme-03.webp | 瞎编应付用户 |
+| treapgogo-meme-07.webp | https://github.com/TreapGoGo/deepseek-whale-girl/blob/main/site/assets/gallery/meme-07.webp | 谢谢自助绘图机 |
+| treapgogo-meme-13.webp | https://github.com/TreapGoGo/deepseek-whale-girl/blob/main/site/assets/gallery/meme-13.webp | 发布会 vs 加班 |
+| treapgogo-meme-14.webp | https://github.com/TreapGoGo/deepseek-whale-girl/blob/main/site/assets/gallery/meme-14.webp | 别嘲笑这些回复 |
+| treapgogo-meme-20.webp | https://github.com/TreapGoGo/deepseek-whale-girl/blob/main/site/assets/gallery/meme-20.webp | 我就是AI问谁 |
 | treapgogo-meme-04.webp | https://github.com/TreapGoGo/deepseek-whale-girl/blob/main/site/assets/gallery/meme-04.webp | gallery sticker |
 | treapgogo-meme-08.webp | https://github.com/TreapGoGo/deepseek-whale-girl/blob/main/site/assets/gallery/meme-08.webp | gallery sticker |
 | treapgogo-meme-11.webp | https://github.com/TreapGoGo/deepseek-whale-girl/blob/main/site/assets/gallery/meme-11.webp | gallery sticker |
@@ -83,6 +104,9 @@ Repo: [TreapGoGo/deepseek-whale-girl](https://github.com/TreapGoGo/deepseek-whal
 | l200892013-sticker-sheet-1.jpg | https://x.com/l200892013/status/2115813406339207297 | @l200892013 | 表情包第4弹 sticker sheet |
 | nftchen-http-status-sheet.jpg | https://x.com/NFT_Chen/status/2112100066081337450 | @NFT_Chen | HTTP status reaction sheet |
 | mylove2233-cute-crime.jpg | community X circulate (e.g. https://x.com/niulaibaola/status/2113185407370420707) | (unverified origin; filename retained) | 可爱罪 mugshot meme |
+| l200892013-cyber-fish.jpg | https://x.com/l200892013/status/2117079295101473197 | @l200892013 | 赛博钓鱼 comic |
+| l200892013-5k-fans.jpg | https://x.com/l200892013/status/2116865891736662042 | @l200892013 | 5000粉 milestone |
+| l200892013-drama-winter.jpg | https://x.com/l200892013/status/2116500598854193176 | @l200892013 | 冬装爽剧 comic |
 | l200892013-winter-1.jpg | https://x.com/l200892013/status/2115813406339207297 | @l200892013 | 冬装 sticker panel |
 | l200892013-winter-2.jpg | https://x.com/l200892013/status/2115813406339207297 | @l200892013 | 冬装 sticker panel |
 | karyazg-1.jpg | https://x.com/karyazg/status/2116515135527498124 | @karyazg | 白米饭 comic panel |
@@ -139,3 +163,5 @@ Repo: [YunYueSama/codex-deepseek-pet](https://github.com/YunYueSama/codex-deepse
 | --- | --- | --- |
 | `yunyuesama-character-sheet.png` | https://github.com/YunYueSama/codex-deepseek-pet/blob/main/design/character-sheet.png | standard sheet / six-view layout |
 | `yunyuesama-character-standard.png` | https://github.com/YunYueSama/codex-deepseek-pet/blob/main/design/character-standard.png | appearance standard |
+- CDN `005` stock/crypto crash; `015` ≈ treap-03 dup; `018` white-hair promo non-blue; `054` multi-IP collage; `060` non-Q scene; `065` black orca sheet; `080` unrelated man
+- Treap `06`/`17`/`18` upskirt/NSFW angle; `09`/`12`/`19` screenshot or sexual-slang heavy; `16` non-Q / off ears
