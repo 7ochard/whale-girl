@@ -3,7 +3,6 @@
 
 ## Related public repos
 
-- [TreapGoGo/deepseek-whale-girl](https://github.com/TreapGoGo/deepseek-whale-girl) — community resource library with Q-version character sheet and meme gallery
 - [AATINF/deepseek-whale-girl-assets](https://github.com/AATINF/deepseek-whale-girl-assets) — extension pack with ~93 jpgs
 - [Iphsiibl/deepseek-whale-girl-gallery](https://github.com/Iphsiibl/deepseek-whale-girl-gallery) — setting art, illustrations, fanart, wallpapers + offline gallery
 - [Neko3000/deepseek-whalechan](https://github.com/Neko3000/deepseek-whalechan) — character reference sheets: colors, expressions, poses, chibi proportions
