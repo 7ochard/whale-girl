@@ -78,25 +78,6 @@ Repo: [diwer/ai-biaoqingbao](https://github.com/diwer/ai-biaoqingbao) (CC BY-NC-
 | diwer-015-kaifan.gif | 开饭啦 |
 | diwer-064-moyu.gif | 摸鱼中 |
 
-## TreapGoGo gallery memes
-
-Repo: [TreapGoGo/deepseek-whale-girl](https://github.com/TreapGoGo/deepseek-whale-girl) · `site/assets/gallery/`
-
-| file | source | note |
-| --- | --- | --- |
-| treapgogo-meme-01.webp | https://github.com/TreapGoGo/deepseek-whale-girl/blob/main/site/assets/gallery/meme-01.webp | DeepSeek完蛋了 |
-| treapgogo-meme-05.webp | https://github.com/TreapGoGo/deepseek-whale-girl/blob/main/site/assets/gallery/meme-05.webp | 用户彻底怒了 |
-| treapgogo-meme-10.webp | https://github.com/TreapGoGo/deepseek-whale-girl/blob/main/site/assets/gallery/meme-10.webp | 用户违反AI指令 |
-| treapgogo-meme-03.webp | https://github.com/TreapGoGo/deepseek-whale-girl/blob/main/site/assets/gallery/meme-03.webp | 瞎编应付用户 |
-| treapgogo-meme-07.webp | https://github.com/TreapGoGo/deepseek-whale-girl/blob/main/site/assets/gallery/meme-07.webp | 谢谢自助绘图机 |
-| treapgogo-meme-13.webp | https://github.com/TreapGoGo/deepseek-whale-girl/blob/main/site/assets/gallery/meme-13.webp | 发布会 vs 加班 |
-| treapgogo-meme-14.webp | https://github.com/TreapGoGo/deepseek-whale-girl/blob/main/site/assets/gallery/meme-14.webp | 别嘲笑这些回复 |
-| treapgogo-meme-20.webp | https://github.com/TreapGoGo/deepseek-whale-girl/blob/main/site/assets/gallery/meme-20.webp | 我就是AI问谁 |
-| treapgogo-meme-04.webp | https://github.com/TreapGoGo/deepseek-whale-girl/blob/main/site/assets/gallery/meme-04.webp | gallery sticker |
-| treapgogo-meme-08.webp | https://github.com/TreapGoGo/deepseek-whale-girl/blob/main/site/assets/gallery/meme-08.webp | gallery sticker |
-| treapgogo-meme-11.webp | https://github.com/TreapGoGo/deepseek-whale-girl/blob/main/site/assets/gallery/meme-11.webp | gallery sticker |
-| treapgogo-meme-15.webp | https://github.com/TreapGoGo/deepseek-whale-girl/blob/main/site/assets/gallery/meme-15.webp | gallery sticker |
-
 ## X candidates (kept)
 
 | file | post | author | note |
