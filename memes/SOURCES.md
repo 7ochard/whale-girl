@@ -102,3 +102,40 @@ Repo: [TreapGoGo/deepseek-whale-girl](https://github.com/TreapGoGo/deepseek-whal
 - `enorez2-contest` — Tieba poll mobile screenshot
 - aigengtu `058` — upskirt reject; `087` — 3D orca off-IP
 - treap `02` — duplicate of CDN 022
+
+## CC0 / commercial-OK imports (2026-11-03)
+
+Filter: DeepSeek 鲸鱼娘 only; SFW; license recorded as CC0 on bluedafeiyu/ai-girl-stickers, or YunYueSama project attribution-commercial license. Skipped: `sticker_issue_32_054` (涩涩鲸鱼). Skipped YunYueSama community inspiration file `你这吃白饭的蓝色大肥鱼.png` (third-party rights unverified per ASSET_LICENSE.md).
+
+### MX1951 · 一些肥鱼 (CC0)
+
+Source site/repo: [lmy414/bluedafeiyu](https://github.com/lmy414/bluedafeiyu) · originals in [lmy414/ai-girl-stickers](https://github.com/lmy414/ai-girl-stickers). Author/submitter: @MX1951.
+
+| file | source | note |
+| --- | --- | --- |
+| `mx1951-yixie-feiyu-001.png` | https://raw.githubusercontent.com/lmy414/ai-girl-stickers/main/dist/submissions/originals/deepseek/issue-07-001.png | 一些肥鱼 · 01 · CC0 |
+| `mx1951-yixie-feiyu-002.png` | https://raw.githubusercontent.com/lmy414/ai-girl-stickers/main/dist/submissions/originals/deepseek/issue-07-002.png | 一些肥鱼 · 02 · CC0 |
+| `mx1951-yixie-feiyu-003.png` | https://raw.githubusercontent.com/lmy414/ai-girl-stickers/main/dist/submissions/originals/deepseek/issue-07-003.png | 一些肥鱼 · 03 · CC0 |
+| `mx1951-yixie-feiyu-004.png` | https://raw.githubusercontent.com/lmy414/ai-girl-stickers/main/dist/submissions/originals/deepseek/issue-07-004.png | 一些肥鱼 · 04 · CC0 |
+| `mx1951-yixie-feiyu-005.png` | https://raw.githubusercontent.com/lmy414/ai-girl-stickers/main/dist/submissions/originals/deepseek/issue-07-005.png | 一些肥鱼 · 05 · CC0 |
+| `mx1951-yixie-feiyu-006.png` | https://raw.githubusercontent.com/lmy414/ai-girl-stickers/main/dist/submissions/originals/deepseek/issue-07-006.png | 一些肥鱼 · 06 · CC0 |
+| `mx1951-yixie-feiyu-007.png` | https://raw.githubusercontent.com/lmy414/ai-girl-stickers/main/dist/submissions/originals/deepseek/issue-07-007.png | 一些肥鱼 · 07 · CC0 |
+| `mx1951-yixie-feiyu-008.png` | https://raw.githubusercontent.com/lmy414/ai-girl-stickers/main/dist/submissions/originals/deepseek/issue-07-008.png | 一些肥鱼 · 08 · CC0 |
+| `mx1951-yixie-feiyu-009.png` | https://raw.githubusercontent.com/lmy414/ai-girl-stickers/main/dist/submissions/originals/deepseek/issue-07-009.png | 一些肥鱼 · 09 · CC0 |
+| `mx1951-yixie-feiyu-010.png` | https://raw.githubusercontent.com/lmy414/ai-girl-stickers/main/dist/submissions/originals/deepseek/issue-07-010.png | 一些肥鱼 · 10 · CC0 |
+| `mx1951-yixie-feiyu-011.png` | https://raw.githubusercontent.com/lmy414/ai-girl-stickers/main/dist/submissions/originals/deepseek/issue-07-011.png | 一些肥鱼 · 11 · CC0 |
+| `mx1951-yixie-feiyu-012.png` | https://raw.githubusercontent.com/lmy414/ai-girl-stickers/main/dist/submissions/originals/deepseek/issue-07-012.png | 一些肥鱼 · 12 · CC0 |
+| `mx1951-yixie-feiyu-013.png` | https://raw.githubusercontent.com/lmy414/ai-girl-stickers/main/dist/submissions/originals/deepseek/issue-07-013.png | 一些肥鱼 · 13 · CC0 |
+
+### Other bluedafeiyu CC0 DeepSeek works
+
+Same archive; filenames `bluedafeiyu-cc0-issue_*`. License type `cc0` in works.json. Count: 73.
+
+### YunYueSama · codex-deepseek-pet (commercial OK with attribution)
+
+Repo: [YunYueSama/codex-deepseek-pet](https://github.com/YunYueSama/codex-deepseek-pet). Author: YunYueSama. Must credit author + repo URL when redistributing.
+
+| file | source | note |
+| --- | --- | --- |
+| `yunyuesama-character-sheet.png` | https://github.com/YunYueSama/codex-deepseek-pet/blob/main/design/character-sheet.png | standard sheet / six-view layout |
+| `yunyuesama-character-standard.png` | https://github.com/YunYueSama/codex-deepseek-pet/blob/main/design/character-standard.png | appearance standard |
